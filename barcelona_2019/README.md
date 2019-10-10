@@ -1,5 +1,7 @@
 # LTI Bootcamp IMS Europe Summit 2019
 
+## [https://cutt.ly/lti_barcelona](https://cutt.ly/lti_barcelona)
+
 The slides for this presentation are here: [LTI Bootcamp Barcelona](https://docs.google.com/presentation/d/1xW-rS-5sL1kwRTLkfYFX718KwolmYCIF3inqIqdM360/edit?usp=sharing). An export is also in this directory.
 
 ## Quick Links
@@ -8,12 +10,16 @@ The slides for this presentation are here: [LTI Bootcamp Barcelona](https://docs
   - 1.3 specification
   - LTI Service specifications
   - Migration guide
+  - IMS Security Framework v1.0
   - Links to many other supporting materials
+- [LTI Toolkit](https://www.imsglobal.org/lti/toolkit)
 - [LTI Forums](https://www.imsglobal.org/forums/learning-tools-and-content-alliance/learning-tools-interoperability)
 - [Reference Implementation (RI)](https://lti-ri.imsglobal.org/)
   - [RI Github Repo](https://github.com/IMSGlobal/lti-reference-implementation) (Contributing Members only)
 - Code Libraries
   - [PHP Library](https://github.com/IMSGlobal/lti-1-3-php-library)
+  - .net Library
+  - Python Library
 - Other Learning Materials
   - [LTI Advantage Overview Video](https://www.youtube.com/watch?v=BjtoMk-1KcY)
   - [PHP Demo Tool And Library](https://github.com/IMSGlobal/lti-1-3-php-library)
