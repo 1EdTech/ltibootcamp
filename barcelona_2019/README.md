@@ -17,12 +17,12 @@ The slides for this presentation are here: [LTI Bootcamp Barcelona](https://docs
 - [Reference Implementation (RI)](https://lti-ri.imsglobal.org/)
   - [RI Github Repo](https://github.com/IMSGlobal/lti-reference-implementation) (Contributing Members only)
 - Code Libraries
-  - [PHP Library](https://github.com/IMSGlobal/lti-1-3-php-library)
+  - [PHP Library (with composer)](https://github.com/IMSGlobal/lti-1-3-php-library/tree/composer)
   - .net Library
   - Python Library
 - Other Learning Materials
   - [LTI Advantage Overview Video](https://www.youtube.com/watch?v=BjtoMk-1KcY)
-  - [PHP Demo Tool And Library](https://github.com/IMSGlobal/lti-1-3-php-library)
+  - [LTI 1.3 Advantage PHP Demo Tool](https://github.com/IMSGlobal/lti-1-3-php-example-tool)
   - [Open Source Blackboard Node Tool Provider](https://github.com/blackboard/BBDN-LTI-Tool-Provider-Node)
   - Videos from Claude Vervoort
     - [What is LTI?](https://www.youtube.com/watch?v=f_6pWiQpg5s)
