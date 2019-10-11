@@ -16,10 +16,10 @@ The slides for this presentation are here: [LTI Bootcamp Barcelona](https://docs
 - [LTI Forums](https://www.imsglobal.org/forums/learning-tools-and-content-alliance/learning-tools-interoperability)
 - [Reference Implementation (RI)](https://lti-ri.imsglobal.org/)
   - [RI Github Repo](https://github.com/IMSGlobal/lti-reference-implementation) (Contributing Members only)
-- Code Libraries
+- Code Libraries or Reference Implementations
   - [PHP Library (with composer)](https://github.com/IMSGlobal/lti-1-3-php-library/tree/composer)
-  - .net Library
-  - Python Library
+  - [Python Library](https://github.com/dmitry-viskov/pylti1.3)
+  - [.net Example Platform](https://github.com/andyfmiller/LtiAdvantagePlatform)
 - Other Learning Materials
   - [LTI Advantage Overview Video](https://www.youtube.com/watch?v=BjtoMk-1KcY)
   - [LTI 1.3 Advantage PHP Demo Tool](https://github.com/IMSGlobal/lti-1-3-php-example-tool)
