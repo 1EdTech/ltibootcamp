@@ -20,10 +20,10 @@ The slides for this presentation are here: [LTI Bootcamp Barcelona](https://docs
   - [PHP Library (with composer)](https://github.com/IMSGlobal/lti-1-3-php-library/tree/composer)
   - [Python Library](https://github.com/dmitry-viskov/pylti1.3)
   - [.net Example Platform](https://github.com/andyfmiller/LtiAdvantagePlatform)
+  - [Open Source Blackboard Node Tool Provider](https://github.com/blackboard/BBDN-LTI-Tool-Provider-Node)
 - Other Learning Materials
   - [LTI Advantage Overview Video](https://www.youtube.com/watch?v=BjtoMk-1KcY)
   - [LTI 1.3 Advantage PHP Demo Tool](https://github.com/IMSGlobal/lti-1-3-php-example-tool)
-  - [Open Source Blackboard Node Tool Provider](https://github.com/blackboard/BBDN-LTI-Tool-Provider-Node)
   - Videos from Claude Vervoort
     - [What is LTI?](https://www.youtube.com/watch?v=f_6pWiQpg5s)
     - [Trust in LTI 1.3 Advantage](https://www.youtube.com/watch?v=bWMVneE7vqI)
