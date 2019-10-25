@@ -25,6 +25,7 @@ The Readme can serve as a template readme for each bootcamp and links and inform
   - [Blackboard Node Tool Provider](https://github.com/blackboard/BBDN-LTI-Tool-Provider-Node)
 - Other Learning Materials
   - [LTI Advantage Overview Video](https://www.youtube.com/watch?v=BjtoMk-1KcY)
+  - [An Illustrated Guide to OAuth and OpenID Connect](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc)
   - Videos from Claude Vervoort
     - [What is LTI?](https://www.youtube.com/watch?v=f_6pWiQpg5s)
     - [Trust in LTI 1.3 Advantage](https://www.youtube.com/watch?v=bWMVneE7vqI)
