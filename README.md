@@ -26,6 +26,7 @@ The Readme can serve as a template readme for each bootcamp and links and inform
 - Other Learning Materials
   - [LTI Advantage Overview Video](https://www.youtube.com/watch?v=BjtoMk-1KcY)
   - [An Illustrated Guide to OAuth and OpenID Connect](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc)
+  - [Claude's LTI Advantage Primer presentation](https://docs.google.com/presentation/d/1uvqbPiPJoeSPOP_OrXWCOuS_D5snlSl0GP5uWQhOm98/edit?usp=sharing)
   - Videos from Claude Vervoort
     - [What is LTI?](https://www.youtube.com/watch?v=f_6pWiQpg5s)
     - [Trust in LTI 1.3 Advantage](https://www.youtube.com/watch?v=bWMVneE7vqI)
