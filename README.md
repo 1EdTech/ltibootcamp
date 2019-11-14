@@ -18,7 +18,6 @@ The Readme can serve as a template readme for each bootcamp and links and inform
   - [RI Github Repo](https://github.com/IMSGlobal/lti-reference-implementation) - Example code in Ruby (Contributing Members only)
 - Code Libraries 
   - [PHP Library (with composer)](https://github.com/IMSGlobal/lti-1-3-php-library/tree/composer)
-  - [Python Library](https://github.com/dmitry-viskov/pylti1.3)
 - Other Reference Implementations
   - [LTI 1.3 Advantage PHP Demo Tool](https://github.com/IMSGlobal/lti-1-3-php-example-tool)
   - [.net Example Platform](https://github.com/andyfmiller/LtiAdvantagePlatform)
