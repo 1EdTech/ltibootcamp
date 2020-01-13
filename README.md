@@ -36,6 +36,7 @@ The Readme can serve as a template readme for each bootcamp and links and inform
     - [LTI Advantage Launch and OIDC](https://www.youtube.com/watch?v=g3y4vwtP6vQ)
     - [LTI Advantage Service API Security](https://www.youtube.com/watch?v=PavmOAiMUzg)
     - [LTI Advantage Multi-Tenant, Registration and Deployment](https://www.youtube.com/watch?v=xD95AlNxnog)
+    - [LTI Advantage Grading](https://youtu.be/XXzjuDQYsO4)
   - [Jupyter Notebook dev bootcamp](https://ltibootcamp.theedtech.dev/)
 - LMS Demo/Documentation
   - [Setting up Turnitin in Blackboard](https://www.youtube.com/watch?v=qzw7Y061SP8)
