@@ -12,6 +12,8 @@ The Readme can serve as a template readme for each bootcamp and links and inform
   - Migration guide
   - IMS Security Framework v1.0
   - Links to many other supporting materials
+  - [ SameSite Cookie Issues for LTI Tool Providers](https://www.imsglobal.org/samesite-cookie-issues-lti-tool-providers)
+  - [Monthly Roundtable Presentations](https://www.imsglobal.org/forum/learning-tools-interoperability/181286) (login required)
 - [LTI Toolkit](https://www.imsglobal.org/lti/toolkit) - Helpful information and sample RFP language for IT organizations and procurement offices
 - [LTI Forums](https://www.imsglobal.org/forums/learning-tools-and-content-alliance/learning-tools-interoperability) - Great place to get help and ask questions when implementing LTI-A
 - [IMS Reference Implementation (RI)](https://lti-ri.imsglobal.org/) - Hosted Platform and Tool for testing and learning LTI
