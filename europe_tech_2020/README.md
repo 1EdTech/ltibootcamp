@@ -9,3 +9,8 @@ Download the presentation: [IMS Europe Bootcamp](https://github.com/IMSGlobal/lt
 
 ## Notes from discussion
 
+Information for upgrading:
+[LTI Migration Guide](https://www.imsglobal.org/spec/lti/v1p3/migr)
+
+SIS User IDs
+http://www.imsglobal.org/spec/lti/v1p3/#learning-information-services-lis-claim-0 
