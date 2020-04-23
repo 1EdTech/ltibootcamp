@@ -16,3 +16,5 @@ SIS User IDs
 http://www.imsglobal.org/spec/lti/v1p3/#learning-information-services-lis-claim-0 
 
 Question: Is there a way to know what links a tool has active in a platform? There is a [proposal for a deep linking service](https://github.com/IMSGlobal/LTI-spec-Deep-Linking/blob/deeplink-service/lti-deep-linking-service.md) in the deep linking github repo. (contributing members only)
+
+nice tool to convert jwks to PEM vice versa https://8gwifi.org/jwkconvertfunctions.jsp
