@@ -26,7 +26,7 @@ The Readme can serve as a template readme for each bootcamp and links and inform
     - [Spring Boot LTI Advantage library](https://github.com/UOC/spring-boot-lti-advantage)
     - [Java LTI 1.3 Example App](https://github.com/UOC/java-lti-1.3-provider-example)
   - [Unicon Spring Boot Java LTI Advantage Demo/starter](https://github.com/Unicon/tool13demo)
-  - [Node JS Library](https://github.com/Cvmcosta/ltijs)
+  - [Node JS Library 1.3 and library](https://github.com/Cvmcosta/ltijs)
 - Other Reference Implementations
   - [LTI 1.3 Advantage PHP Demo Tool](https://github.com/IMSGlobal/lti-1-3-php-example-tool)
   - [.net Example Platform](https://github.com/andyfmiller/LtiAdvantagePlatform)
