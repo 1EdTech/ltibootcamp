@@ -43,6 +43,9 @@ The Readme can serve as a template readme for each bootcamp and links and inform
     - [LTI Advantage Multi-Tenant, Registration and Deployment](https://www.youtube.com/watch?v=xD95AlNxnog)
     - [LTI Advantage Grading](https://youtu.be/XXzjuDQYsO4)
   - [Jupyter Notebook dev bootcamp](https://ltibootcamp.theedtech.dev/)
+  - OAuth 2.0 Simulators: experiment with different OAuth2 and OIDC flows that make it easier to understand the different flows in practice:
+    - [Aaron Parecki’s OAuth 2.0 Playground](https://oauth.com/playground/)
+    - [Philippe De Ryck’s OAuth 2.0 Flow Simulator](https://pragmaticwebsecurity.com/articles/oauthoidc/oauth-flow-simulator.html)
 - LMS Demo/Documentation
   - [Setting up Turnitin in Blackboard](https://www.youtube.com/watch?v=qzw7Y061SP8)
   - [Canvas Instructions for configuring Tool Provider](https://community.canvaslms.com/docs/DOC-16729-42141110178)
