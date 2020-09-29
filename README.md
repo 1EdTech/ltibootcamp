@@ -19,7 +19,7 @@ The Readme can serve as a template readme for each bootcamp and links and inform
 - [IMS Reference Implementation (RI)](https://lti-ri.imsglobal.org/) - Hosted Platform and Tool for testing and learning LTI
   - [RI Github Repo](https://github.com/IMSGlobal/lti-reference-implementation) - Example code in Ruby (Contributing Members only)
 - Code Libraries 
-  - [PHP Library: 1.3 core + services](https://github.com/IMSGlobal/lti-1-3-php-library/tree/composer)
+  - [PHP Library: 1.3 core + services](https://github.com/IMSGlobal/lti-1-3-php-library)
   - [PHP Library: 1.3 core](https://github.com/oat-sa/lib-lti1p3-core)
   - Open University of Catalonia's Java libraries
     - [LTI 1.3 & LTI Advantage Java Library](https://github.com/UOC/java-lti-1.3)
