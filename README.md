@@ -20,7 +20,11 @@ The Readme can serve as a template readme for each bootcamp and links and inform
   - [RI Github Repo](https://github.com/IMSGlobal/lti-reference-implementation) - Example code in Ruby (Contributing Members only)
 - Code Libraries 
   - [PHP Library: 1.3 core + services](https://github.com/IMSGlobal/lti-1-3-php-library)
-  - [PHP Library: 1.3 core](https://github.com/oat-sa/lib-lti1p3-core)
+  - Open Assessment Technologies, TAO's PHP Libraries
+    - [1.3 core](https://github.com/oat-sa/lib-lti1p3-core)
+    - [Deep Linking](https://github.com/oat-sa/lib-lti1p3-deep-linking)
+    - [Names & Roles](https://github.com/oat-sa/lib-lti1p3-nrps)
+    - [Symfony Bundle](https://github.com/oat-sa/bundle-lti1p3)
   - Open University of Catalonia's Java libraries
     - [LTI 1.3 & LTI Advantage Java Library](https://github.com/UOC/java-lti-1.3)
     - [Spring Boot LTI Advantage library](https://github.com/UOC/spring-boot-lti-advantage)
@@ -31,6 +35,7 @@ The Readme can serve as a template readme for each bootcamp and links and inform
   - [LTI 1.3 Advantage PHP Demo Tool](https://github.com/IMSGlobal/lti-1-3-php-example-tool)
   - [.net Example Platform](https://github.com/andyfmiller/LtiAdvantagePlatform)
   - [Blackboard Node Tool Provider](https://github.com/blackboard/BBDN-LTI-Tool-Provider-Node)
+  - [OAT's 1.3 Demo Application](https://lti.showcase.gcp.taocloud.org/platform/message/launch/deep-linking) - Test platforms and tools
 - Other Learning Materials
   - [LTI Advantage Overview Video](https://www.youtube.com/watch?v=BjtoMk-1KcY)
   - [An Illustrated Guide to OAuth and OpenID Connect](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc)
