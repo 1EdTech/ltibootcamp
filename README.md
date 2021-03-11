@@ -10,6 +10,7 @@ The Readme can serve as a template readme for each bootcamp and links and inform
   - 1.3 specification
   - LTI Service specifications
   - Migration guide
+    -  [LTI Platform Migration Specifics from 1.1 to 1.3](https://www.imsglobal.org/lti-platform-migration-specifics)
   - IMS Security Framework v1.0
   - Links to many other supporting materials
   - [ SameSite Cookie Issues for LTI Tool Providers](https://www.imsglobal.org/samesite-cookie-issues-lti-tool-providers)
