@@ -19,25 +19,30 @@ The Readme can serve as a template readme for each bootcamp and links and inform
 - [LTI Forums](https://www.imsglobal.org/forums/learning-tools-and-content-alliance/learning-tools-interoperability) - Great place to get help and ask questions when implementing LTI-A
 - [IMS Reference Implementation (RI)](https://lti-ri.imsglobal.org/) - Hosted Platform and Tool for testing and learning LTI
   - [RI Github Repo](https://github.com/IMSGlobal/lti-reference-implementation) - Example code in Ruby (Contributing Members only)
-- Code Libraries 
-  - [PHP Library: 1.3 core + services](https://github.com/IMSGlobal/lti-1-3-php-library)
-  - Open Assessment Technologies, TAO's PHP Libraries
-    - [1.3 core](https://github.com/oat-sa/lib-lti1p3-core)
-    - [Deep Linking](https://github.com/oat-sa/lib-lti1p3-deep-linking)
-    - [Names & Roles](https://github.com/oat-sa/lib-lti1p3-nrps)
-    - [Symfony Bundle](https://github.com/oat-sa/bundle-lti1p3)
-  - Open University of Catalonia's Java libraries
-    - [LTI 1.3 & LTI Advantage Java Library](https://github.com/UOC/java-lti-1.3)
-    - [Spring Boot LTI Advantage library](https://github.com/UOC/spring-boot-lti-advantage)
-    - [Java LTI 1.3 Example App](https://github.com/UOC/java-lti-1.3-provider-example)
-  - [Unicon Spring Boot Java LTI Advantage Demo/starter](https://github.com/Unicon/tool13demo)
-  - [Node JS Library 1.3 Core and Services](https://github.com/Cvmcosta/ltijs)
-  - [PyLTI 1.3: Python library](https://github.com/dmitry-viskov/pylti1.3)
-- Other Reference Implementations
-  - [LTI 1.3 Advantage PHP Demo Tool](https://github.com/IMSGlobal/lti-1-3-php-example-tool)
-  - [.net Example Platform](https://github.com/andyfmiller/LtiAdvantagePlatform)
-  - [Blackboard Node Tool Provider](https://github.com/blackboard/BBDN-LTI-Tool-Provider-Node)
-  - [OAT's 1.3 Demo Application](https://lti.showcase.gcp.taocloud.org/platform/message/launch/deep-linking) - Test platforms and tools
+- Code Libraries & Reference Implementations
+  - PHP
+    - [Library: 1.3 core + services](https://github.com/IMSGlobal/lti-1-3-php-library)
+    - [Reference: Demo Tool Code](https://github.com/IMSGlobal/lti-1-3-php-example-tool)
+    - [Reference: TAO Hosted test platform](https://lti.showcase.gcp.taocloud.org/platform/message/launch/deep-linking)
+    - Libraries: Open Assessment Technologies, TAO's PHP Libraries
+      - [1.3 core](https://github.com/oat-sa/lib-lti1p3-core)
+      - [Deep Linking](https://github.com/oat-sa/lib-lti1p3-deep-linking)
+      - [Names & Roles](https://github.com/oat-sa/lib-lti1p3-nrps)
+      - [Symfony Bundle](https://github.com/oat-sa/bundle-lti1p3)
+  - Python
+    - [Library: PyLTI 1.3](https://github.com/dmitry-viskov/pylti1.3) - Has library and Flask/Django examples
+    - [Reference: Flask LTI app starter template from UCF](https://github.com/ucfopen/lti-13-template-flask)
+  - Java
+    - [Reference: Unicon Spring Boot Java LTI Advantage Demo/starter](https://github.com/Unicon/tool13demo)
+    - Libraries: Open University of Catalonia's Java libraries
+      - [LTI 1.3 & LTI Advantage Java Library](https://github.com/UOC/java-lti-1.3)
+      - [Spring Boot LTI Advantage library](https://github.com/UOC/spring-boot-lti-advantage)
+      - [Java LTI 1.3 Example App](https://github.com/UOC/java-lti-1.3-provider-example)
+  - Javascript/Node
+    - [Library: 1.3 Core and Services](https://github.com/Cvmcosta/ltijs)
+    - [Reference: Blackboard Node Tool Provider](https://github.com/blackboard/BBDN-LTI-Tool-Provider-Node)
+  - .net
+    - [Reference: .net Example Platform](https://github.com/andyfmiller/LtiAdvantagePlatform)
 - Other Learning Materials
   - [LTI Advantage Overview Video](https://www.youtube.com/watch?v=BjtoMk-1KcY)
   - [An Illustrated Guide to OAuth and OpenID Connect](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc)
