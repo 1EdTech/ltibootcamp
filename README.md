@@ -19,6 +19,9 @@ The Readme can serve as a template readme for each bootcamp and links and inform
 - [LTI Forums](https://www.imsglobal.org/forums/learning-tools-and-content-alliance/learning-tools-interoperability) - Great place to get help and ask questions when implementing LTI-A
 - [IMS Reference Implementation (RI)](https://lti-ri.imsglobal.org/) - Hosted Platform and Tool for testing and learning LTI
   - [RI Github Repo](https://github.com/IMSGlobal/lti-reference-implementation) - Example code in Ruby (Contributing Members only)
+- Browser plugins to see all steps of LTI launch in browser developer tools tab:
+    - [Firefox LTI Plugin](https://addons.mozilla.org/af/firefox/addon/lti-debugger/)
+    - [Chrome LTI Plugin](https://chrome.google.com/webstore/detail/lti-debugger/cpjdeioljkbgkldnbojoagdoiggnlhll)
 - Code Libraries & Reference Implementations
   - PHP
     - [Library: 1.3 core + services](https://github.com/IMSGlobal/lti-1-3-php-library)
