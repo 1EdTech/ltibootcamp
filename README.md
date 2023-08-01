@@ -49,6 +49,7 @@ The Readme can serve as a template readme for each bootcamp and links and inform
     - [Reference: Blackboard Node Tool Provider](https://github.com/blackboard/BBDN-LTI-Tool-Provider-Node)
   - .net
     - [Reference: .net Example Platform](https://github.com/andyfmiller/LtiAdvantagePlatform)
+  - [AWS LTI 'Shim' Service](https://aws-samples.github.io/enable-lti/)
 - Other Learning Materials
   - [LTI Advantage Overview Video](https://www.youtube.com/watch?v=BjtoMk-1KcY)
   - [An Illustrated Guide to OAuth and OpenID Connect](https://developer.okta.com/blog/2019/10/21/illustrated-guide-to-oauth-and-oidc)
