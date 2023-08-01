@@ -37,6 +37,7 @@ The Readme can serve as a template readme for each bootcamp and links and inform
     - [Library: PyLTI 1.3](https://github.com/dmitry-viskov/pylti1.3) - Has library and Flask/Django examples
     - [Reference: Flask LTI app starter template from UCF](https://github.com/ucfopen/lti-13-template-flask)
     - [Robotest Test tool (python/fastapi)](https://github.com/claudevervoort/ltiautotest) [robotest](https://robotest.theedtech.dev)
+    - [Library: django-lti](https://github.com/academic-innovation/django-lti) - LTI Advantage support for Django projects
   - Java
     - [Reference: Unicon Spring Boot Java LTI Advantage Demo/starter](https://github.com/Unicon/tool13demo)
     - Libraries: Open University of Catalonia's Java libraries
