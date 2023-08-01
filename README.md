@@ -9,6 +9,7 @@ The Readme can serve as a template readme for each bootcamp and links and inform
 - [LTI Project Page](https://www.imsglobal.org/activity/learning-tools-interoperability) (Bookmark this!)
   - 1.3 specification
   - LTI Service specifications
+  - [LTI Tools Implementation Guide](https://www.imsglobal.org/spec/lti/v1p3/impl-assess)
   - Migration guide
     -  [LTI Platform Migration Specifics from 1.1 to 1.3](https://www.imsglobal.org/lti-platform-migration-specifics)
   - IMS Security Framework v1.0
