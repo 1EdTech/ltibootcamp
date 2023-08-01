@@ -1,8 +1,7 @@
-# LTI Bootcamp Materials
+# LTI Bootcamp
 
-Each bootcamp will have a folder that contains relevant materials and links.
-
-The Readme can serve as a template readme for each bootcamp and links and information specific to each version can be added as needed.
+This page is collecting various links that relates to understanding and implementing LTI Tools and Platforms. Feel free
+to issue PR to add additional resources you think may be useful to fellow implementers. Thanks!
 
 ## Quick Links
 
