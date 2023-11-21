@@ -70,3 +70,4 @@ to issue PR to add additional resources you think may be useful to fellow implem
   - [Canvas Instructions for configuring Tool Provider](https://community.canvaslms.com/docs/DOC-16729-42141110178)
 - Useful Tools
   - [jwt.io](jwt.io) - Decode JWT strings and find libraries
+  - [LTI Expert GPT](https://chat.openai.com/g/g-l3Uw5D4re-lti-expert-gpt) - An expert trained on LTI 1.3 and related specs, provides easy explanations and code generation. This requires a ChatGPT subscription, free otherwise.
