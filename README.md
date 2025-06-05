@@ -48,6 +48,8 @@ to issue PR to add additional resources you think may be useful to fellow implem
     - [Reference: Blackboard Node Tool Provider](https://github.com/blackboard/BBDN-LTI-Tool-Provider-Node)
   - .net
     - [Reference: .net Example Platform](https://github.com/andyfmiller/LtiAdvantagePlatform)
+  - rust
+    - [Atomic Forge, for a steel strong RUST implementation](https://github.com/atomicjolt-com/atomic-forge)
   - [AWS LTI 'Shim' Service](https://aws-samples.github.io/enable-lti/)
 - Other Learning Materials
   - [LTI Advantage Overview Video](https://www.youtube.com/watch?v=BjtoMk-1KcY)
