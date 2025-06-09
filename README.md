@@ -46,10 +46,13 @@ to issue PR to add additional resources you think may be useful to fellow implem
   - Javascript/Node
     - [Library: 1.3 Core and Services](https://github.com/Cvmcosta/ltijs)
     - [Reference: Blackboard Node Tool Provider](https://github.com/blackboard/BBDN-LTI-Tool-Provider-Node)
+    - [Reference: Atomic LTI Worker](https://github.com/atomicjolt-com/atomic-lti-worker)
   - .net
     - [Reference: .net Example Platform](https://github.com/andyfmiller/LtiAdvantagePlatform)
-  - rust
-    - [Atomic Forge, for a steel strong RUST implementation](https://github.com/atomicjolt-com/atomic-forge)
+  - Ruby
+    - [Atomic Jolt LTI Starter App](https://github.com/atomicjolt/lti_starter_app)
+  - Rust
+    - [Reference: Atomic Forge](https://github.com/atomicjolt-com/atomic-forge)
   - [AWS LTI 'Shim' Service](https://aws-samples.github.io/enable-lti/)
 - Other Learning Materials
   - [LTI Advantage Overview Video](https://www.youtube.com/watch?v=BjtoMk-1KcY)
