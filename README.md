@@ -1,7 +1,11 @@
 # LTI Bootcamp
 
 This page is collecting various links that relates to understanding and implementing LTI Tools and Platforms. Feel free
-to issue PR to add additional resources you think may be useful to fellow implementers. Thanks!
+to issue PR to add additional resources you think may be useful to fellow implementers. 
+
+The resources listed here are for information only and have not been vetted. So make your own review to decide or not to use any code or library referenced here.
+
+Thanks!
 
 ## Quick Links
 
@@ -37,6 +41,7 @@ to issue PR to add additional resources you think may be useful to fellow implem
     - [Reference: Flask LTI app starter template from UCF](https://github.com/ucfopen/lti-13-template-flask)
     - [Robotest Test tool (python/fastapi)](https://github.com/claudevervoort/ltiautotest) [robotest](https://robotest.theedtech.dev)
     - [Library: django-lti](https://github.com/academic-innovation/django-lti) - LTI Advantage support for Django projects
+    - [Open Learning: LTI 1.3 Platform](https://github.com/OpenLearningNet/lti1p3platform) - with Django example
   - Java
     - [Reference: Unicon Spring Boot Java LTI Advantage Demo/starter](https://github.com/Unicon/tool13demo)
     - Libraries: Open University of Catalonia's Java libraries
